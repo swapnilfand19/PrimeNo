@@ -37,6 +37,7 @@ public class prime_no
  public static void main(String args[]) 
  { 
      int n = 30; 
+     System.out.println("PRIME NUMBER PROGRAM");
      System.out.print("Following are the prime numbers "); 
      System.out.println("smaller than or equal to " + n); 
      prime_no g = new prime_no(); 
